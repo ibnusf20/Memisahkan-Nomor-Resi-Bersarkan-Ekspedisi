@@ -1,5 +1,3 @@
-Berikut adalah kode yang disesuaikan untuk mengeluarkan nama ekspedisi bersamaan dengan nomor resi yang terdeteksi:
-
 Penjelasan Kode:
 
 Pencocokan data: Kode ini menggunakan objek ekspedisi untuk mencocokkan setiap kata dalam pesan dengan pola ekspedisi yang sesuai.
