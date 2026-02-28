@@ -36,4 +36,4 @@ for (const word of words) {
     if (data) break; // Keluar dari loop utama jika sudah menemukan resi
 }
 
-return [{ json: { data, api } }];
+return [{ json: { data, api, pesan} }];
